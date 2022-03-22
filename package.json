@@ -1,6 +1,6 @@
 {
   "name": "sematic-release-demo",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/github": "^8.0.2",
+    "@semantic-release/release-notes-generator": "^10.0.3",
     "ava": "^4.1.0",
     "semantic-release": "^19.0.2"
   }
