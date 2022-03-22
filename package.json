@@ -1,0 +1,16 @@
+{
+  "name": "sematic-release-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^4.1.0",
+    "semantic-release": "^19.0.2"
+  }
+}
